@@ -1,130 +1,267 @@
 {
-    "Ads": {
-        "show_ads": true,
-        "bannerAd": "admob",
-        "InterAd": "admob",
-        "NativeAd": "admob",
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "ironsource_api": "1011dee21",
-        "max_banner": "6db1491f2e21970c",
-        "max_inter": "812b82d9e0c7cb7f",
-        "max_native": "64ea2f2ef41edb34",
-        "unityTest": true,
-        "unityGameID": "4398793",
-        "unityBanner": "Banner",
-        "unityInter": "Inter",
-        "yandexInter": "demo-interstitial-yandex",
-        "yandexBanner": "R-M-DEMO-320x50",
-        "yandexNative": "R-M-DEMO-native-i",
-        "intersitial_click_activites": 1,
-        "intersitial_click_list": 1
-
-    },
-
-    "Data": {
-        "btn_more_title": "More",
-        "btn_more_url": "https://www.google.com/",
-        "items_data": [{
-                "title": "STEP1",
-                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
-				"title_size": 18,
-				"detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				},
-				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "",
-					"cpa_url": "https://google.com"
-				}
-				]
-            }, {
-                "title": "STEP2",
-                "image": "https://fantom.fun/nakoko/2.jpg",
-				"title_size": 25,
-                "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				},
-				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				}
-				]
-            }, {
-                "title": "STEP3",
-                "image": "https://fantom.fun/nakoko/3.jpg",
-				"title_size": 18,
-                "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				},
-				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				}
-				]
-            }, {
-                "title": "STEP4",
-                "image": "https://fantom.fun/nakoko/4.jpg",
-				"title_size": 18,
-                "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				},
-				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				}
-				]
-            }, {
-                "title": "STEP5",
-                "image": "https://fantom.fun/nakoko/5.jpg",
-				"title_size": 18,
-                "detail": [{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				},
-				{
-					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
-					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
-					"native": true,
-					"cpa_title": "Open",
-					"cpa_url": "https://google.com"
-				}
-				]
-            }
-        ]
+  "apps": [
+    {
+      "status": 0,
+      "redirect_url": "https://play.google.com/store/apps/details?id=codes.ApkValley.AndroidManual&listing=fr",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": "",
+      "rate_us" : true
     }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "admob",
+      "admob_banner_unit_id": "ca-app-pub-2646589775596897/7600679804",
+      "admob_interstitial_unit_id": "",
+      "admob_native_unit_id": "ca-app-pub-2646589775596897/6287598135",
+      "admob_app_open_unit_id": "ca-app-pub-2646589775596897/4974516463",
+      "ad_manager_banner_unit_id": "/22888163648/Aren_Banner",
+      "ad_manager_interstitial_unit_id": "",
+      "ad_manager_native_unit_id": "/22888163648/Aren_Native",
+      "ad_manager_app_open_unit_id": "/22888163648/Aren_OpenAd",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 1,
+      "native_ad_index": 1,
+      "native_ad_interval": 1,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      
+      "show_native_ad_device": true,
+      "show_native_ad_intiDOne": true,
+      "show_native_ad_initialization": true,
+      "show_native_ad_robot": true,
+      "show_native_ad_language": true,
+      
+      "show_banner_ad_device": true,
+      "show_banner_ad_intiDOne": true,
+      "show_banner_ad_initialization": true,
+      "show_banner_ad_robot": true,
+      "show_banner_ad_language": true,
+      "show_banner_ad_onBoard": true,
+      
+      "show_interstitial_ad_device": true,
+      "show_interstitial_ad_intiDOne": true,
+      "show_interstitial_ad_initialization": true,
+      "show_interstitial_ad_robot": true,
+      "show_interstitial_ad_language": true,
+      "show_interstitial_ad_onBoard": true,
+      
+     
+      
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apps",
+      "image": "https://i.ibb.co/nMr4v7m/ic-apps.png"
+    },
+    {
+      "id": 2,
+      "name": "Game",
+      "image": "https://i.ibb.co/SBfh4dk/ic-game.png"
+    },
+    {
+      "id": 3,
+      "name": "OS",
+      "image": "https://i.ibb.co/Y3VMPsf/ic-os.png"
+    },
+    {
+      "id": 4,
+      "name": "Coding",
+      "image": "https://i.ibb.co/0mNP5x3/ic-programming.png"
+    },
+    {
+      "id": 5,
+      "name": "Mods",
+      "image": "https://i.ibb.co/D5bjVkh/ic-modding.png"
+    },
+    {
+      "id": 6,
+      "name": "How To",
+      "image": "https://i.ibb.co/X2RFJc6/ic-how-to.png"
+    },
+    {
+      "id": 7,
+      "name": "Tips & Trick",
+      "image": "https://i.ibb.co/Htd3CTp/ic-tips-trick.png"
+    },
+    {
+      "id": 8,
+      "name": "Lifestyle",
+      "image": "https://i.ibb.co/gwQGc7d/ic-lifestyle.png"
+    },
+	{
+      "id": 9,
+      "name": "Android",
+      "image": "https://i.ibb.co/bWdXnCy/ic-android.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Game, Tips & Trick",
+      "title": "Free Fire: Top 10 best M1014 gun skins in the game",
+      "image": "https://drive.google.com/uc?id=1pQhsk0Hi80cU0TjNuqUwA87UVDKWGTB_",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Ffree-fire-top-10-best-m1014-gun-skins-in-the-game.html?alt=media&token=b2934876-c15a-485b-a573-dc23e55b0ffb",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "How To, Lifestyle",
+      "title": "IKEA Malm Bed Building Tips - How to Build IKEA Furniture",
+      "image": "https://drive.google.com/uc?id=1vY4Vkur3Z-VrLTh3b8_0WLMN4w33zywt",
+      "content": "<p>This tutorial video is the exact opposite of the previous one about becoming more confident in public speaking. This is a finely drawn topic. It’s not how to put a bed frame together, it’s how to put the IKEA Malm bed frame together.</p><p>There’s no voiceover, the only audio in this tutorial video is the background music. But the audience is never left feeling lost for instruction. There are strategic callouts, which give tips and names of the specific parts being used. It’s a clever solution to a potentially dull voiceover detailing where to put screws.</p>",
+      "video": "https://archive.org/download/how-to-build-an-ikea-malm-bed-frame-how-to-house-beautiful/How%20To%20Build%20An%20Ikea%20MALM%20Bed%20Frame%20-%20How%20To%20-%20House%20Beautiful.mp4"
+    },
+    {
+      "id": 3,
+      "category": "Coding, Apps",
+      "title": "Object Oriented Programming Breakdown for Beginners",
+      "image": "https://drive.google.com/uc?id=12ZSsVfWg9bLA9HJkZ488XSMvzkkTKomK",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fobject-oriented-programming-breakdown-for-beginners.html?alt=media&token=43b4d861-532a-4708-9f7a-d8f807acd5b9",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Game",
+      "title": "Mobile Legends on PC Bruno Guide: Best Build, Emblem and Gameplay Tips",
+      "image": "https://drive.google.com/uc?id=1doqZVv0E2NjqPhTAL8J32slNcy7KRgmZ",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fmobile-legends-on-pc-bruno-guide-best-build-emblem-and-gameplay-tips.html?alt=media&token=10a21965-f712-48b9-a88d-940ddd969a0f",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Game",
+      "title": "PUBG New State on PC: Global launch time based on your country",
+      "image": "https://drive.google.com/uc?id=16j0VZ1gt2t3v-MwHL6XIuSbkffYdb0bu",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fpubg-new-state-on-pc-global-launch-time-based-on-your-country.html?alt=media&token=3f3e398d-672a-4c68-80aa-7427342527bd",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips & Trick",
+      "title": "Awaken: Chaos Era: The complete Reroll guide and tips",
+      "image": "https://drive.google.com/uc?id=1dfxXgaOb16heehlLxZWmod2OSeslhLI0",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fawaken-chaos-era-the-complete-reroll-guide-and-tips.html?alt=media&token=d7d52cba-9790-4343-a7bb-f7c542cf572a",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "OS, Apps",
+      "title": "How to build your own custom Android ROM",
+      "image": "https://drive.google.com/uc?id=1eWtkjpRLnpN3A2PzbwTZLHUMWkcrcNsy",
+      "content": "file:///android_asset/how-to-build-your-own-custom-android-rom.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Apps",
+      "title": "How to hide your iPhone photos in iOS 16",
+      "image": "https://drive.google.com/uc?id=1mxwI8uNCnkFoGu5blMNjCGNvVuwYbd65",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fhow-to-hide-your-iphone-photos-in-ios-16.html?alt=media&token=c10422cd-7c39-4243-b458-efaee85d1a54",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Mods",
+      "title": "The Witcher 3 Complete Edition Mods List",
+      "image": "https://drive.google.com/uc?id=1-9le8JielLP7APFDb83-mfYghKFqdz6P",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fthe-witcher-3-complete-edition-mods-list.html?alt=media&token=0b78db4d-9558-4f28-bba4-96cfd54ae3bc",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Lifestyle",
+      "title": "Holiday survival guide: How to seize the season before it seizes you",
+      "image": "https://drive.google.com/uc?id=1to1ElvoBA7LDyMfthPjGfIp7iup9YoyH",
+      "content": "<p>If you&rsquo;re dreading decking the halls with your relatives this year, there are seasonal survival tips that may help you get through the holidays.</p><p>If you feel holidays are more of a hassle than a hallmark movie, you&rsquo;re not alone. According to a recent poll, at least 75 percent of Americans admit they need to escape family this time of year. But there are ways to make the most of the season.</p><p>On average, Americans will stay with family for three and a half days and nearly 40 percent say finding sleeping arrangements is one of the most stressful parts of preparing for out-of-town family.</p><p>Other top concerns are lack of privacy, family getting on your nerves, and drama between family members.</p><p>&ldquo;Most of us want harmony in our families,&rdquo; says Family &amp; Marriage Therapist, Cherlette McCullough.</p><p>One of the most important sanity savers is to plan early, know who&rsquo;s traveling, and what the sleeping arrangements are.</p><p>Set realistic expectations for yourself. When you adjust your mindset to something that&rsquo;s realistic, you&rsquo;re already ahead of the game. It&rsquo;s important to find a balance between being generous and hospitable. Most importantly, keep the lines of communication open with your significant other about how you are feeling.</p><p>&ldquo;If you&rsquo;re feeling that you&rsquo;re not accepted, I would say the first thing too, talk to your mate about that,&rdquo; said McCullough.</p><p>One last tip, try outsourcing some of your big holiday meals. Experts say order in all of the holiday sides and trimmings and just focus on the turkey or ham. That way you spend less time in the kitchen and more time enjoying the season.</p>",
+      "video": "https://www.youtube.com/watch?v=c-Rq61sXpV0"
+    },
+	{
+      "id": 11,
+      "category": "Lifestyle",
+      "title": "Your Step-by-Step Guide to Filling Out a Money Order",
+      "image": "https://drive.google.com/uc?id=1V0_1UC1fvv1KxQV7ASDL7VZ9-2rP9NZi",
+      "content": "https://firebasestorage.googleapis.com/v0/b/solodroid-projects.appspot.com/o/guide%2Fyour-step-by-step-guide-to-filling-out-a-money-order.html?alt=media&token=a76d5fa3-f36f-4168-b975-314f947e11b6",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Android News App",
+      "image": "https://play-lh.googleusercontent.com/eKJPha96I1bf-5N1t_5AGCfgDem6Mhd_Zx0Mqd99VctURQNZWOrT4PGLwnnA0IwAOA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.newsappdemo"
+    },
+    {
+      "id": 2,
+      "title": "Material Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/3T-dy3DXh97Z3bIdo-gGmmkFrEahaAliUWVqBx3yxTaQ53k2IGU1X8NBMd9BXbHsGOER=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.solowallpaper"
+    },
+    {
+      "id": 3,
+      "title": "Your Videos Channel",
+      "image": "https://play-lh.googleusercontent.com/bvAffce04aejSuP0nsAz6bJ4x98s6MUlR3lLZ3k_HLcB-UVdgC6Vk6Rsi3g2ibDkGA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.solovid"
+    },
+    {
+      "id": 4,
+      "title": "Your Radio App",
+      "image": "https://play-lh.googleusercontent.com/UxqrpJdOfz6DtSZqM_WLTV589-1DNVc9AnTIF1NAHHKbKJJ7wA4TJmtNJljv7kNUrA=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.yourradioappdemo"
+    },
+    {
+      "id": 5,
+      "title": "WebDroid",
+      "image": "https://play-lh.googleusercontent.com/TyntUvov68ugQJBue7uSuodDhNfV-Li_k7v_xx_CWJ4SXAVvd8QVRNPjBoDqo9R2X8A=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.webdroid"
+    },
+    {
+      "id": 6,
+      "title": "Blogger News App",
+      "image": "https://play-lh.googleusercontent.com/urfXGfBHxNELMoDnAXE7fNbubBAk4cikHsrhFOnWs2pxoNP0a1BqdDCjzVbVQdEqug=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.solodroid.bloggernewsapp"
+    }
+  ]
 }
