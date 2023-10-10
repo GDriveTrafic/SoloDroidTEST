@@ -1,0 +1,130 @@
+{
+    "Ads": {
+        "show_ads": true,
+        "bannerAd": "yandex",
+        "InterAd": "yandex",
+        "NativeAd": "yandex",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+        "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "ironsource_api": "1011dee21",
+        "max_banner": "6db1491f2e21970c",
+        "max_inter": "812b82d9e0c7cb7f",
+        "max_native": "64ea2f2ef41edb34",
+        "unityTest": true,
+        "unityGameID": "4398793",
+        "unityBanner": "Banner",
+        "unityInter": "Inter",
+        "yandexInter": "demo-interstitial-yandex",
+        "yandexBanner": "R-M-DEMO-320x50",
+        "yandexNative": "R-M-DEMO-native-i",
+        "intersitial_click_activites": 3,
+        "intersitial_click_list": 3
+
+    },
+
+    "Data": {
+        "btn_more_title": "More",
+        "btn_more_url": "https://www.google.com/",
+        "items_data": [{
+                "title": "STEP1",
+                "image": "https://usercontent1.hubstatic.com/8037694.jpg",
+				"title_size": 18,
+				"detail": [{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"native": true,
+					"cpa_title": "",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "STEP2",
+                "image": "https://fantom.fun/nakoko/2.jpg",
+				"title_size": 25,
+                "detail": [{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "STEP3",
+                "image": "https://fantom.fun/nakoko/3.jpg",
+				"title_size": 18,
+                "detail": [{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "STEP4",
+                "image": "https://fantom.fun/nakoko/4.jpg",
+				"title_size": 18,
+                "detail": [{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }, {
+                "title": "STEP5",
+                "image": "https://fantom.fun/nakoko/5.jpg",
+				"title_size": 18,
+                "detail": [{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "Nicoo it is a free application that empowers you to play with free FF Skins and it's accessible presently on android for nothing ! Nicoo application helps customers with up recreation experience and besides grant to open all free hearth skins.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				},
+				{
+					"image": "https://usercontent1.hubstatic.com/8037694.jpg",
+					"text": "exactly once customers enter the game exploitation this application, the consumer will have various endowments and wonders clutching be researched. Gems need to be purchased exploitation cash. Henceforth, customers can whereas not a doubt get to valuable stones and skin at intervals the sport, whereas not searching any money.",
+					"native": true,
+					"cpa_title": "Open",
+					"cpa_url": "https://google.com"
+				}
+				]
+            }
+        ]
+    }
+}
